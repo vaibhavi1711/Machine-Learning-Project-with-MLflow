@@ -5,7 +5,7 @@ numpy
 scikit-learn
 matplotlib
 python-box==7.0.1
-pyyaml
+pyyaml==6.0.1
 tqdm
 ensure==1.0.3
 joblib
